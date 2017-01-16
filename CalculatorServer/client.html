@@ -1,0 +1,32 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <script src="Script1.js"></script>
+    <title>Calculator Client</title>
+</head>
+<body onload="connect();" onunload="disconnect();">
+    <center>
+        <h1> Hesap Makinesi</h1>
+        <div >
+            <input type="number" name="sayi1" id="sayi1" placeholder="Sayi1">
+            <input type="number" name="sayi2" id="sayi2" placeholder="Sayi2">
+        </div>
+        <br />
+        <div>
+            <input class="button" type="submit" id="Topla" value="Topla" onclick="topla();" />
+            <input class="button" type="submit" id="Cikar" value="Cikar" onclick="Cikar();" />
+            <input class="button" type="submit" id="Carp" value="Carp" onclick="Carp();" />
+            <input class="button" type="submit" id="Bol" value="Bol" onclick="Bol();" />
+            <input class="button" type="submit" id="connect" value="Bağlan" onclick="connect();" />
+        </div>
+        <br />
+        <div>
+            <input name="Sonuc" id="Sonuc" placeholder="Sonuc" readonly>
+            <label name="messageLabel" id="messageLabel">Bağlantı yok</label>
+        </div>
+    </center>
+    
+</body onload="connect();">
+</html>

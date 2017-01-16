@@ -1,0 +1,9 @@
+c:\users\p1092nb\documents\visual studio 2015\Projects\CalculatorServer\CalculatorServer\bin\Debug\CalculatorServer.exe.config
+c:\users\p1092nb\documents\visual studio 2015\Projects\CalculatorServer\CalculatorServer\bin\Debug\CalculatorServer.exe
+c:\users\p1092nb\documents\visual studio 2015\Projects\CalculatorServer\CalculatorServer\bin\Debug\CalculatorServer.pdb
+c:\users\p1092nb\documents\visual studio 2015\Projects\CalculatorServer\CalculatorServer\obj\Debug\CalculatorServer.csprojResolveAssemblyReference.cache
+c:\users\p1092nb\documents\visual studio 2015\Projects\CalculatorServer\CalculatorServer\obj\Debug\CalculatorServer.exe
+c:\users\p1092nb\documents\visual studio 2015\Projects\CalculatorServer\CalculatorServer\obj\Debug\CalculatorServer.pdb
+c:\users\p1092nb\documents\visual studio 2015\Projects\CalculatorServer\CalculatorServer\bin\Debug\Fleck.dll
+c:\users\p1092nb\documents\visual studio 2015\Projects\CalculatorServer\CalculatorServer\bin\Debug\Newtonsoft.Json.dll
+c:\users\p1092nb\documents\visual studio 2015\Projects\CalculatorServer\CalculatorServer\bin\Debug\Newtonsoft.Json.xml
